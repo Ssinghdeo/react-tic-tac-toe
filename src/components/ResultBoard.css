@@ -1,0 +1,28 @@
+.ResultBoard {
+    font-size: 5em;
+      font-family: "fredoka",sans-serif;
+      font-weight: bold;
+      font-size: 18px;
+      font-size: 2rem;
+      padding: 0.5rem 1rem;
+      margin: 8rem auto;
+      text-align: center;
+    }
+    .winner-message {
+      text-align: center;
+      font-size: 26px;
+      font-weight: bold;
+    }
+    
+    .winner-x {
+      color:rgb(255, 70, 37); 
+    }
+    
+    .winner-o {
+      color: rgb(44, 135, 255); 
+    }
+    .draw{
+      color:rgb(123, 145, 150);
+      font-style:bold;
+      font-size: 30px;
+    }
